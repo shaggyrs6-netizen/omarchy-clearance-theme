@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-02 — Harrier II addition
+
+- Added US Marine Corps AV-8B Harrier II artwork depicting vertical takeoff from an amphibious assault ship.
+- Collection now contains 17 ultrawide wallpapers; cover updated to six new additions.
+- Palette and existing wallpapers unchanged.
+
 ## 2026-11-02 — Five new aviation wallpapers
 
 - Added British F-35B Lightning II, USAF F-16 Fighting Falcon, USAF F-15EX Eagle II, French Dassault Rafale and US Navy EA-18G Growler artwork.

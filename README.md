@@ -1,8 +1,8 @@
 # Clearance
 
-A dark Omarchy theme inspired by modern aviation: graphite surfaces, warm ivory text and muted teal accents, with sixteen aviation wallpapers.
+A dark Omarchy theme inspired by modern aviation: graphite surfaces, warm ivory text and muted teal accents, with seventeen aviation wallpapers.
 
-![Clearance — an Omarchy theme with sixteen aviation wallpapers](preview.png)
+![Clearance — an Omarchy theme with seventeen aviation wallpapers](preview.png)
 
 *The cover is promotional artwork, not a screenshot of the desktop interface.*
 
@@ -33,7 +33,7 @@ Clearance pairs a restrained interface with aircraft, cloudscapes, radar-inspire
 | [Lancer](backgrounds/10-lancer-b1b-3440x1440.webp) | B-1B-inspired aircraft |
 | [Poseidon](backgrounds/11-poseidon-3440x1440.webp) | P-8-inspired aircraft releasing sonobuoys |
 
-**2 November 2026: five new wallpapers**, bringing the collection to sixteen.
+**2 November 2026: six new wallpapers**, bringing the collection to seventeen.
 
 | New wallpaper | Scene and service markings |
 |---|---|
@@ -42,8 +42,9 @@ Clearance pairs a restrained interface with aircraft, cloudscapes, radar-inspire
 | [Eagle II](backgrounds/14-eagle-f15ex-3440x1440.webp) | USAF F-15EX above desert canyons at dusk |
 | [Rafale](backgrounds/15-rafale-3440x1440.webp) | French Rafale above the Alps at sunset |
 | [Growler](backgrounds/16-growler-ea18g-3440x1440.webp) | US Navy EA-18G above the Pacific coast |
+| [Harrier II](backgrounds/17-harrier-av8b-3440x1440.webp) | US Marine Corps AV-8B lifting vertically from an amphibious assault ship |
 
-All sixteen backgrounds are **3440 × 1440 WebP exports**, locally upscaled from AI-generated originals approximately **1920–1940 × 810–825** pixels. They are not native 4K or native ultrawide-detail images. Export uses Lanczos resampling with a small centred crop to fit the target aspect ratio; the original collection also used mild sharpening except for radar artwork. Separate 16:9 editions are not included. A fill/crop display mode on other aspect ratios may trim aircraft or scenery.
+All seventeen backgrounds are **3440 × 1440 WebP exports**, locally upscaled from AI-generated originals approximately **1920–1940 × 810–825** pixels. They are not native 4K or native ultrawide-detail images. Export uses Lanczos resampling with a small centred crop to fit the target aspect ratio; the original collection also used mild sharpening except for radar artwork. Separate 16:9 editions are not included. A fill/crop display mode on other aspect ratios may trim aircraft or scenery.
 
 Aircraft shapes, cockpit instruments, markings and release geometry are artistic interpretations. They are not technical reference imagery, photographs or operational guidance.
 
@@ -65,6 +66,6 @@ The 41 selected contrast checks pass their stated targets on opaque surfaces; ma
 
 ## Credits and licence
 
-Theme prepared by Lee Shand / Wired Differently with AI assistance. The sixteen wallpapers are AI-generated artwork selected for this collection. The cover is AI-generated promotional artwork showing four of the five new additions. No aircraft manufacturer, operator or the Omarchy project endorses this theme.
+Theme prepared by Lee Shand / Wired Differently with AI assistance. The seventeen wallpapers are AI-generated artwork selected for this collection. The cover is AI-generated promotional artwork showing four of the six new additions. No aircraft manufacturer, operator or the Omarchy project endorses this theme.
 
 The existing [MIT licence](LICENSE) is retained for the supplied theme files, artwork and documentation, to the extent applicable rights exist. It does not promise exclusive copyright in AI-generated imagery or grant rights in third-party trademarks. Aircraft names identify the artistic subjects.
