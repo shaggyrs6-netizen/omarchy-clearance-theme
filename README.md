@@ -1,8 +1,8 @@
 # Clearance
 
-A dark Omarchy theme inspired by modern aviation: graphite surfaces, warm ivory text and muted teal accents, with eleven aviation wallpapers.
+A dark Omarchy theme inspired by modern aviation: graphite surfaces, warm ivory text and muted teal accents, with sixteen aviation wallpapers.
 
-![Clearance — an Omarchy theme with eleven aviation wallpapers](preview.png)
+![Clearance — an Omarchy theme with sixteen aviation wallpapers](preview.png)
 
 *The cover is promotional artwork, not a screenshot of the desktop interface.*
 
@@ -33,13 +33,23 @@ Clearance pairs a restrained interface with aircraft, cloudscapes, radar-inspire
 | [Lancer](backgrounds/10-lancer-b1b-3440x1440.webp) | B-1B-inspired aircraft |
 | [Poseidon](backgrounds/11-poseidon-3440x1440.webp) | P-8-inspired aircraft releasing sonobuoys |
 
-All eleven backgrounds are **3440 × 1440 WebP exports**, locally upscaled from **1935 × 812 AI-generated originals**. They are not native 4K or native ultrawide-detail images. Export used Lanczos resampling with a small centred vertical crop (about 0.25%) and mild sharpening, except for the radar artwork. Separate 16:9 editions are not included. A fill/crop display mode on other aspect ratios may trim aircraft or scenery.
+**2 November 2026: five new wallpapers**, bringing the collection to sixteen.
+
+| New wallpaper | Scene and service markings |
+|---|---|
+| [Lightning](backgrounds/12-lightning-f35b-3440x1440.webp) | British F-35B above the Atlantic at dawn |
+| [Falcon](backgrounds/13-falcon-f16-3440x1440.webp) | USAF F-16 launching a missile above a mountain landscape |
+| [Eagle II](backgrounds/14-eagle-f15ex-3440x1440.webp) | USAF F-15EX above desert canyons at dusk |
+| [Rafale](backgrounds/15-rafale-3440x1440.webp) | French Rafale above the Alps at sunset |
+| [Growler](backgrounds/16-growler-ea18g-3440x1440.webp) | US Navy EA-18G above the Pacific coast |
+
+All sixteen backgrounds are **3440 × 1440 WebP exports**, locally upscaled from AI-generated originals approximately **1920–1940 × 810–825** pixels. They are not native 4K or native ultrawide-detail images. Export uses Lanczos resampling with a small centred crop to fit the target aspect ratio; the original collection also used mild sharpening except for radar artwork. Separate 16:9 editions are not included. A fill/crop display mode on other aspect ratios may trim aircraft or scenery.
 
 Aircraft shapes, cockpit instruments, markings and release geometry are artistic interpretations. They are not technical reference imagery, photographs or operational guidance.
 
 ## Installation
 
-Once this repository is public, install by repository URL:
+Install by repository URL:
 
 ```sh
 omarchy theme install https://github.com/shaggyrs6-netizen/omarchy-clearance-theme
@@ -55,6 +65,6 @@ The 41 selected contrast checks pass their stated targets on opaque surfaces; ma
 
 ## Credits and licence
 
-Theme prepared by Lee Shand / Wired Differently with AI assistance. The eleven wallpapers are AI-generated artwork selected for this collection. The cover is supplied promotional artwork. No aircraft manufacturer, operator or the Omarchy project endorses this theme.
+Theme prepared by Lee Shand / Wired Differently with AI assistance. The sixteen wallpapers are AI-generated artwork selected for this collection. The cover is AI-generated promotional artwork showing four of the five new additions. No aircraft manufacturer, operator or the Omarchy project endorses this theme.
 
 The existing [MIT licence](LICENSE) is retained for the supplied theme files, artwork and documentation, to the extent applicable rights exist. It does not promise exclusive copyright in AI-generated imagery or grant rights in third-party trademarks. Aircraft names identify the artistic subjects.
